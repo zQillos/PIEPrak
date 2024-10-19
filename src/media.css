@@ -1,0 +1,331 @@
+@media only screen and (max-width:1850px) {
+    .LACards{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .LAArrows {
+        display:none;
+    }
+
+    .HowItWorks-blocks-wrapper {
+        flex-direction: column;
+    }
+    
+    .vector{
+        display: block;
+        margin: 10px 0;
+    }
+
+    .vectorhorizon {
+        display:none;
+    }
+
+    .PopularCollections-blocks-wrapper {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .PopularCollections-arrow {
+        display:none
+    }
+
+    .Categories-blocks-wrapper {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .LiveAuctions {
+        margin-left: 0;
+    }
+
+    .HowItWorks {
+        margin: 185px 83px 174px 83px;
+    }
+
+    .PopularCollections {
+        margin-left: 0;
+    }
+
+    .Categories {
+        margin-left: 0px;
+        padding: 80px 0 80px 0;
+    }
+
+    .TopCreators {
+        padding: 104px 108px 80px 108px
+    }
+
+}
+@media only screen and (max-width:1400px) {
+    
+    .header-item {
+        display:none;
+    }
+
+    .header-item-img {
+        max-width: 282px;
+        display:flex;
+        justify-content: center;
+    }
+
+    .headmedia{
+        display: flex;
+        justify-content:center;
+        padding: 50px 0;
+    }
+
+    .header-item0 {
+        display:block;
+    }
+
+    .header-main-title {
+        text-align: center;
+    }
+
+    .header-main-btns {
+        justify-content: center;
+    }
+
+    .header-main-counts {
+        justify-content: center;
+        margin-top: 0;
+    }
+
+    .header-main-btn {
+        display:none;
+    }
+
+    .header-inner {
+        display:none;
+
+    }
+
+    .burg{
+        display: block;
+    }
+
+    .end {
+        padding: 40px;
+    }
+
+}
+
+@media only screen and (max-width:1250px){
+    .titles{
+        flex-direction: column;
+        grid-gap: 20px;
+        margin: 84px 0;
+    }
+
+    .LATitles{
+        margin-top: 0;
+    }
+
+}
+
+@media only screen and (max-width:1100px){
+    .Search-line-wrapper{
+        flex-direction: column;
+        align-items: center;
+    } 
+
+    .Search-line-wrapper button {
+        margin-top:32px;
+    }
+
+    footer {
+        display:block;
+        text-align: center;
+        padding:0; 
+    }
+
+    footer p {
+        color: #96839B;
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 36px;
+    }
+
+    .footer-1 {
+        justify-content: center;
+        padding: 57px 0 51px 0; 
+    }
+
+    .footer-2 {
+        padding-bottom:44px;
+    }
+
+    .footer-3 {
+        display:flex;
+        justify-content: space-around;
+    }
+
+    .footer-imgs {
+        justify-content: center;
+        padding: 51px 0 7px 0;
+        margin: 0;
+    }
+
+    .spn {
+        padding-bottom: 11px;
+    }
+
+    .end {
+        display:none;
+    }
+
+    .end1{
+        display: block !important;;
+    }
+
+}
+
+/* /////////////////////////// */
+@media only screen and (max-width:1080px){
+
+    .header-up-links {
+        margin-right: 64px !important;
+    }
+    .Cont {
+        margin: 0 !important;
+    }
+    .header-up {
+        flex-direction: column;
+    }
+    .footer-2, .footer-3 {
+        margin-left: 0 !important;
+    }
+    
+}
+
+@media only screen and (max-width:690px){
+
+    .header-inner {
+        flex-direction: column;
+    }
+    .header-up-links {
+        margin: 20px 0 !important;
+
+    }
+    
+    h1 {
+        line-height: 1 !important;
+        font-size: 50px !important;
+    }
+    h2 {
+        line-height: 1 !important;
+        font-size: 38px !important;
+    }
+
+    .WalletTeh {
+        margin: 0px !important;
+    }
+
+    .header-main-counts {
+        flex-direction: column;
+        grid-gap:10px;
+    }
+
+    .footer-3 {
+        flex-direction: column;
+    }
+    footer {
+        padding: 30px !important;
+    }
+
+}
+
+@media only screen and (max-width:580px){
+
+    .header-main-btns {
+        flex-direction: column;
+        margin: 0 10px;
+    }
+
+    .header-item-img-up {
+        width: 70%;
+    }
+    .header-item-img-down {
+        justify-content: center;
+        grid-gap: 15px;
+    }
+    .header-item-img{
+        max-width: none;
+        min-width: 0;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .LACard button {
+        padding: 21px 5px;
+        width: 100%;
+    }
+
+    .Search-line {
+        padding: 30px;
+    }
+
+    .footer-1-dec {
+        margin: 40px !important;
+    }
+}
+
+@media only screen and (max-width:450px){
+
+    .HowItWorks p {
+        font-size: 16px;
+    }
+
+    .TC-card, .TC-card-profile {
+        flex-direction: column;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .TopCreators {
+        padding: 104px 0;
+    }
+
+    .header-up-links {
+        flex-direction: column;
+        grid-gap: 15px !important;
+    }
+
+    .TC-card-profile-right {
+        border: none;
+        padding: 0;
+    }
+    .TC-card-profile-name {
+        margin: 0px;
+    }
+
+    .header-item-img {
+        display: none;
+    }
+
+    h1 {
+        line-height: 1 !important;
+        font-size: 38px !important;
+    }
+    h2 {
+        line-height: 1 !important;
+        font-size: 30px !important;
+    }
+
+}
+
+@media only screen and (max-width:360px){
+
+    .PopularCollections-profile {
+        flex-direction: column;
+    }
+    .titles svg {
+        width: 150px;
+    }
+}

@@ -1,0 +1,21 @@
+.footer-1-dec {
+    margin: 40px 140px;
+
+}
+
+.footer-1-dec p {
+    color: #96839B;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.footer-1-dec span {
+    font-weight: 400;
+}
+
+.bg-dec {
+    background:#3D2942;
+    padding:25px;
+    border: 1px solid #FFCE4E;
+}

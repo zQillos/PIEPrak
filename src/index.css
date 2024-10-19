@@ -1,0 +1,19 @@
+body {
+  font-family: 'Oxanium', cursive;
+  font-family: 'Work Sans', sans-serif;
+  background: #1C121F;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  color: #F5FBF2;
+  font-family: 'Oxanium', cursive;
+  font-size: 85px;
+  font-weight: 700;
+  line-height: 130px;
+}
+
+h1 span {
+  color: #FFCE4E;
+}
